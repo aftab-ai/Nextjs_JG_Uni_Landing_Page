@@ -1,4 +1,6 @@
-# JG University Landing Page [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://nextjs-jg-uni-landing-page.vercel.app/)
+# JG University Landing Page
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://nextjs-jg-uni-landing-page.vercel.app/)
 
 A modern, responsive landing page built using Next.js and Tailwind CSS as part of an internship assignment.
 
